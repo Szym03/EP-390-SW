@@ -19,3 +19,21 @@ Nintendo Switch Controller instrument.
 ### Session 3
 * Switched to toggling drums with just d pad up.
 * Added a drum effect while pressing right D pad down.
+
+### Session 4
+* Added a random melody generator using random and coll objects.
+* Changed the general metronome system from being millisecond based to transport based so everything is in sync when using the instrument.
+* Added user manual (below).
+
+## User Manual
+
+### Initialization
+1. Connect joycon controllers to computer via bluetooth.
+2. Open Max Patch and Ableton Session
+
+### Using the instrument
+* Start by pressing `X` - this will run transport in ableton and activate the pad. Use the `A` button to toggle between two chords.
+* Use the `left joystick` to control reverb mix (X-axis) and Filter Cutoff (Y-axis). Move the joystick around to hear pitch bend.
+* Toggle drum break using the `UP` button. Holding down the `RIGHT` button will produce various effects affecting the drums.
+* Activate the melody using the `DOWN` button. Switch between half, quarter, and eighth notes using the `LEFT` button.
+* Finish your session by pressing `X` button.

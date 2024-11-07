@@ -14,5 +14,5 @@ For the droplet system, I would imagine using either a peristaltic pump, or poss
 ### Better outcome:
 - Two or more surfaces, separate water line that can be opened/closed to create an arrangement of sounds coming in and out. 
 
-###Best outcome:
+### Best outcome:
 - Multiple surfaces, all with separate microphones, sound processing, and the possibility of turning them on/off independetly. Advanced signal processing allowing for various textures and sounds, some melodic, some percussive. 
